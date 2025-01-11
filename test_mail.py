@@ -5,7 +5,7 @@ from email.header import Header
 
 sender="mickey.sun3@gmail.com"
 receiver=["mickey_sun0313@yahoo.com.tw","mickey_sun0313@yahoo.com.tw"]
-passwd="jbfr abak dvlt yoxi"
+passwd=""
 
 for R in receiver :
     print(R)
