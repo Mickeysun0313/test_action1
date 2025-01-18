@@ -3,8 +3,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from email.header import Header
 
-sender="mickey.sun3@gmail.com"
-receiver=["mickey_sun0313@yahoo.com.tw","mickey_sun0313@yahoo.com.tw"]
+#sender="mickey.sun3@gmail.com"
+#receiver=["mickey_sun0313@yahoo.com.tw","mickey_sun0313@yahoo.com.tw"]
 passwd=""
 
 for R in receiver :
